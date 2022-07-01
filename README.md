@@ -1,1 +1,4 @@
-# json_app_builder
+# JSON APP Builder
+-------------------
+
+`JSONAppBuilder(jsonString,func1,funct2,funct3,.......)`
